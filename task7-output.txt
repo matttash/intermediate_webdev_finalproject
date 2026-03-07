@@ -1,0 +1,22 @@
+Randomized with seed 11664
+Started
+FF
+
+Failures:
+1) Interest Rate Calculator Tests Calculate Simple Interest
+  Message:
+    TypeError: calculateSimpleInterest is not a function
+  Stack:
+        at UserContext.<anonymous> (/home/project/intermediate_webdev_finalproject/spec/scriptSpec.js:6:24)
+        at <Jasmine>
+
+2) Interest Rate Calculator Tests Calculate Total Amount
+  Message:
+    TypeError: calculateTotalPayableAmount is not a function
+  Stack:
+        at UserContext.<anonymous> (/home/project/intermediate_webdev_finalproject/spec/scriptSpec.js:11:24)
+        at <Jasmine>
+
+2 specs, 2 failures
+Finished in 0.007 seconds
+Randomized with seed 11664 (jasmine --random=true --seed=11664)

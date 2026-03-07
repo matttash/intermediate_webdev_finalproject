@@ -1,0 +1,17 @@
+asset main.js 26 KiB [compared for emit] (name: main) 1 related asset
+runtime modules 972 bytes 5 modules
+cacheable modules 14.8 KiB
+  modules by path ./node_modules/ 8.58 KiB
+    modules by path ./node_modules/style-loader/dist/runtime/*.js 5.84 KiB
+      ./node_modules/style-loader/dist/runtime/injectStylesIntoStyleTag.js 2.42 KiB [built] [code generated]
+      ./node_modules/style-loader/dist/runtime/styleDomAPI.js 1.5 KiB [built] [code generated]
+      ./node_modules/style-loader/dist/runtime/insertBySelector.js 1000 bytes [built] [code generated]
+      + 3 modules
+    modules by path ./node_modules/css-loader/dist/runtime/*.js 2.74 KiB
+      ./node_modules/css-loader/dist/runtime/sourceMaps.js 505 bytes [built] [code generated]
+      ./node_modules/css-loader/dist/runtime/api.js 2.25 KiB [built] [code generated]
+  modules by path ./src/ 6.19 KiB
+    ./src/script.js 1.02 KiB [built] [code generated]
+    ./src/style.css 1.1 KiB [built] [code generated]
+    ./node_modules/css-loader/dist/cjs.js!./src/style.css 4.07 KiB [built] [code generated]
+webpack 5.105.4 compiled successfully in 826 ms
